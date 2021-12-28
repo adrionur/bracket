@@ -1,0 +1,6 @@
+com\test\mercedes\BracketController.class
+com\test\helper\BracketHelper.class
+com\test\model\BracketModel.class
+com\test\mercedes\BracketApplication.class
+com\test\service\BracketService.class
+com\test\model\PatternModel.class

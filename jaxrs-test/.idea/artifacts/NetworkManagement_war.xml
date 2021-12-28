@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NetworkManagement:war">
+    <output-path>$PROJECT_DIR$/jaxrs-test/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>NetworkManagement</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="NetworkManagement.war">
+      <element id="artifact" artifact-name="NetworkManagement:war exploded" />
+    </root>
+  </artifact>
+</component>
